@@ -1,3 +1,0 @@
-# az login
-adityaraj16012006@hotmail.com/G0ld/hsbc
-az login -u adityaraj16012006@hotmail.com -p G0ldengate
